@@ -42,4 +42,3 @@ You can install these dependencies using pip:
 ```bash
 pip install -r requirements.txt
 
-Update README with project details
